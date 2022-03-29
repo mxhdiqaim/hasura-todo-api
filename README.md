@@ -178,3 +178,7 @@ see the result below.
 ```
 
 To start exploring the **_API_** visit the this [blog](https://nigeriancoder.hashnode.dev), see how it started, how it is going and where it is ending :)
+
+### How to USE the API
+
+All you need is the hasura graphql link which is given above, then the Auth0 link for Authentication and authorization, for that, I can't give that here but you can message me on Twitter [@mxhdiqaim](https://twitter.com/mxhdiqaim) or IG [@mxhdiqaim](https://instagram.com/mxhdiqaim) for that.
